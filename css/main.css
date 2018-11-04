@@ -33,12 +33,14 @@
 .seccion_video{
   margin-left: 5%;
   float: left;
+  width: 90%;
 }
 
 .video{
   float: left;
   margin-left: 20%;
   width: 60%;
+  margin-bottom: 20%;
 }
 
 #cabecera{
