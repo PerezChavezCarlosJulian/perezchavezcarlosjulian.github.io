@@ -30,15 +30,25 @@
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.seccion_video{
-  margin-left: 5%;
-  float: left;
+.cita{
+  text-align: left;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  margin-top: 60px;
+  margin-bottom: 30px;
 }
 
-.video{
+.glosario{
+  width: 40%;
   float: left;
-  margin-left: 20%;
-  width: 60%;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+
+.titulosecundario{
+  text-align: center;
 }
 
 #cabecera{
@@ -61,6 +71,11 @@
 
 #ventana_actual{
   border: 4px solid #AA1111;
+}
+
+#opinionYcomentarios{
+  width: 100%;
+  float: left;
 }
 
 p{
